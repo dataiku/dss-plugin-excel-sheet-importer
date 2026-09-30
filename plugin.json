@@ -9,8 +9,10 @@
     "licenseInfo": "Apache Software License",
     "url": "https://www.dataiku.com/product/plugins/excel-sheet-importer/",
     "tags": [
-      "Format",
-      "Productivity"
+      "Connector",
+      "Microsoft",
+      "Productivity",
+      "Excel"
     ]
   }
 }
