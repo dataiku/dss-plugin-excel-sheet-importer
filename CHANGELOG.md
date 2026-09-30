@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Version 1.2.0 - Enhancement release - 2026-09-30
+
+- Added supported Python versions: 3.12, 3.13, 3.14
+- Makefile cleanup: release_info.json lines removed
+
 ## [v1.1.3](https://github.com/dataiku/dss-plugin-excel-sheet-importer/releases/tag/v1.1.3) - 2025-01
 - Overwrite now clears the outputs datasets instead of deleting them
 
